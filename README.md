@@ -11,7 +11,7 @@ The goal of this project was to deploy a highly available and scalable AWS archi
 
 🏗 Architecture Diagram
 
-Architecture-Diagram.png
+![Architecture Diagram](Architecture-Diagram.png)
 
 Architecture Components:
 
